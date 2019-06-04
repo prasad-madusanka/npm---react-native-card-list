@@ -1,0 +1,26 @@
+{
+  "name": "rn-card-list",
+  "version": "1.0.0",
+  "description": "Card list for react native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://prasadMadusanka@bitbucket.org/prasadMadusanka/npm-react-native-card-list.git"
+  },
+  "keywords": [
+    "rn",
+    "react-native",
+    "react",
+    "native",
+    "card",
+    "list",
+    "card",
+    "list"
+  ],
+  "author": "Prasad Madusanka (prasad.mads@gmail.com || www.prasadmadusanka.me)",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/prasadMadusanka/npm-react-native-card-list#readme"
+}
